@@ -13,7 +13,6 @@ using KoopaLib;
 using NAudio.Wave;
 using System.Threading;
 using Syroot.BinaryData;
-using Softpae.Media;
 using CSCore;
 using System.Reflection;
 using System.Diagnostics;
